@@ -1,0 +1,55 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    
+   
+}
+.container{
+    width: 284px;
+    height: 420px;
+    background-color: hsl(0, 0%, 100%);
+    margin: 0 auto;
+    position: relative;
+    top: 85px;
+    border-radius: 8px;
+}
+.img-card{
+    width: 263px;
+    height: 268px;
+   
+    border-radius: 8px;
+    margin: 0 auto;
+
+}
+img{
+    width: 260px;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 8px;
+    border-radius: 8px;
+}
+h2{
+    font-family: Outfit;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 20px;
+    text-align: center;
+}
+.para{
+    position: absolute;
+    left: 36px;
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+}
+.attribution{
+    position: absolute;
+    bottom: 0;
+    left: 35%;
+    
+}
+p{
+    display: inline;
+}
